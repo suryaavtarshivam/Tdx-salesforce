@@ -1,0 +1,269 @@
+Invoice_ID,PO_ID,Product_ID,Product_Name,Quantity,Unit_Price,Total_Price
+INV001,PO093,P6635,Vision-oriented motivating portal,33,272.85,9004.05
+INV001,PO093,P2039,Enhanced web-enabled instruction set,55,354.92,19520.6
+INV001,PO093,P5577,Assimilated content-based functionalities,99,371.22,36750.78
+INV001,PO093,P7380,Organic high-level support,97,425.19,41243.43
+INV002,PO009,P7389,Enterprise-wide radical leverage,99,296.18,29321.82
+INV002,PO009,P1920,Face-to-face stable service-desk,40,37.59,1503.6
+INV002,PO009,P9990,Multi-channeled 6thgeneration groupware,13,102.43,1331.59
+INV003,PO073,P6264,Automated fresh-thinking info-mediaries,30,271.65,8149.5
+INV003,PO073,P9955,Enhanced real-time budgetary management,49,86.6,4243.4
+INV003,PO073,P7219,Realigned multi-tasking installation,1,425.39,425.39
+INV004,PO090,P5994,Multi-tiered executive throughput,24,132.03,3168.72
+INV004,PO090,P8845,Fully-configurable context-sensitive interface,94,475.22,44670.68
+INV004,PO090,P8503,Reverse-engineered composite throughput,63,381.52,24035.76
+INV004,PO090,P4069,Customer-focused neutral help-desk,39,383.96,14974.44
+INV005,PO071,P9365,Cloned actuating knowledgebase,34,226.61,7704.74
+INV006,PO096,P7755,Cross-platform asynchronous ability,1,219.77,219.77
+INV006,PO096,P1378,Open-architected bandwidth-monitored framework,24,303.11,7274.64
+INV006,PO096,P3080,Adaptive motivating attitude,1,242.31,242.31
+INV006,PO096,P8846,Enterprise-wide explicit Graphic Interface,35,435.73,15250.55
+INV007,PO047,P1830,Focused 24/7 intranet,43,491.5,21134.5
+INV007,PO047,P2922,Enterprise-wide zero-defect focus group,30,237.74,7132.2
+INV007,PO047,P1907,Horizontal 24/7 emulation,36,412.18,14838.48
+INV008,PO064,P1911,Triple-buffered web-enabled superstructure,37,283.35,10483.95
+INV009,PO077,P7464,Extended asynchronous benchmark,87,411.87,35832.69
+INV009,PO077,P7623,User-friendly modular adapter,20,43.1,862.0
+INV010,PO050,P6660,Organized transitional model,26,189.97,4939.22
+INV010,PO050,P7021,Integrated multi-tasking system engine,90,127.43,11468.7
+INV010,PO050,P2468,Mandatory content-based customer loyalty,9,81.92,99.43
+INV011,PO073,P6264,Automated fresh-thinking info-mediaries,30,271.65,8149.5
+INV011,PO073,P9955,Enhanced real-time budgetary management,49,86.6,4243.4
+INV011,PO073,P7219,Realigned multi-tasking installation,1,425.39,425.39
+INV012,PO_INVALID,P8045,Multi-tiered 24/7 info-mediaries,73,397.79,29038.67
+INV013,PO031,P5340,Switchable stable knowledge user,100,264.61,26461.0
+INV013,PO031,P7696,Front-line neutral alliance,86,237.39,20415.54
+INV013,PO031,P1742,Persevering contextually-based extranet,7,411.37,2879.59
+INV013,PO031,P2843,Synchronized fault-tolerant policy,27,441.68,11925.36
+INV013,PO031,P4871,Adaptive contextually-based archive,29,184.34,5345.86
+INV014,PO047,P1830,Focused 24/7 intranet,43,491.5,21134.5
+INV014,PO047,P2922,Enterprise-wide zero-defect focus group,30,237.74,7132.2
+INV014,PO047,P1907,Horizontal 24/7 emulation,36,412.18,14838.48
+INV015,PO089,P2822,Robust mission-critical collaboration,64,424.57,27172.48
+INV015,PO089,P7332,Implemented directional access,10,225.58,2255.8
+INV015,PO089,P6764,Ameliorated responsive protocol,69,21.7,1497.3
+INV016,PO_INVALID,P6478,Universal exuding service-desk,72,345.94,24907.68
+INV017,PO028,P9044,Up-sized composite challenge,6,39.12,234.73
+INV017,PO028,P7075,Intuitive bi-directional strategy,53,317.98,16852.94
+INV017,PO028,P5733,Profound 4thgeneration collaboration,15,434.91,6523.65
+INV019,PO028,P9136,Devolved methodical workforce,6,36.34,218.04
+INV019,PO028,P1888,Object-based zero administration emulation,53,317.98,16852.94
+INV019,PO028,P9406,Balanced user-facing focus group,15,434.91,6523.65
+INV020,PO093,P2039,Enhanced web-enabled instruction set,55,354.92,19520.6
+INV020,PO093,P7380,Organic high-level support,97,425.19,41243.43
+INV021,PO090,P5994,Multi-tiered executive throughput,24,132.03,3168.72
+INV021,PO090,P8845,Fully-configurable context-sensitive interface,94,475.22,44670.68
+INV021,PO090,P8503,Reverse-engineered composite throughput,63,381.52,24035.76
+INV021,PO090,P4069,Customer-focused neutral help-desk,39,383.96,14974.44
+INV022,PO027,P3498,Re-contextualized executive pricing structure,89,358.22,31881.58
+INV023,PO006,P3373,Centralized optimal implementation,94,291.08,27361.52
+INV023,PO006,P7555,Streamlined local functionalities,14,116.91,1636.74
+INV024,PO067,P7880,Balanced leadingedge monitoring,49,49.97,2448.53
+INV024,PO067,P6310,Centralized bandwidth-monitored Local Area Network,40,490.05,19602.0
+INV024,PO067,P3843,Devolved high-level Internet solution,93,79.67,7409.31
+INV024,PO067,P5402,Function-based impactful database,85,387.87,32968.95
+INV024,PO067,P2991,User-centric foreground alliance,3,325.72,977.16
+INV025,PO067,P7880,Balanced leadingedge monitoring,49,49.97,2448.53
+INV025,PO067,P6310,Centralized bandwidth-monitored Local Area Network,40,490.05,19602.0
+INV025,PO067,P3843,Devolved high-level Internet solution,93,79.67,7409.31
+INV025,PO067,P5402,Function-based impactful database,85,387.87,32968.95
+INV025,PO067,P2991,User-centric foreground alliance,3,325.72,977.16
+INV026,PO010,P5104,Implemented multi-tasking ability,71,304.67,21631.57
+INV027,PO068,P4864,Monitored attitude-oriented open architecture,71,218.46,15510.5
+INV027,PO068,P9588,Front-line directional website,70,114.03,7981.95
+INV027,PO068,P8102,Optimized fault-tolerant extranet,31,236.81,7341.2
+INV027,PO068,P6428,Reduced bifurcated emulation,18,124.42,2239.56
+INV028,PO_INVALID,P8264,Customer-focused motivating initiative,22,282.93,6224.46
+INV029,PO016,P9259,Diverse full-range contingency,68,202.42,13764.56
+INV029,PO016,P9510,Synergized real-time success,71,438.05,31101.55
+INV029,PO016,P1175,Team-oriented 6thgeneration adapter,54,413.12,22308.48
+INV029,PO016,P7942,Multi-channeled value-added paradigm,73,126.42,9228.66
+INV029,PO016,P5270,Object-based human-resource challenge,99,141.06,13964.94
+INV030,PO014,P9391,Inverse asymmetric standardization,11,411.87,4530.57
+INV030,PO014,P3474,Grass-roots regional service-desk,5,431.51,2157.55
+INV030,PO014,P4085,Adaptive attitude-oriented installation,2,300.04,600.08
+INV030,PO014,P9083,Optional hybrid monitoring,60,385.23,23113.8
+INV030,PO014,P3625,Down-sized asynchronous success,94,198.94,18700.36
+INV031,PO050,P6660,Organized transitional model,26,189.97,4939.22
+INV031,PO050,P5154,Adaptive global middleware,67,167.27,11207.09
+INV031,PO050,P1441,Robust foreground productivity,10,274.52,2745.2
+INV031,PO050,P7021,Integrated multi-tasking system engine,90,127.43,11468.7
+INV032,PO010,P5104,Implemented multi-tasking ability,71,304.67,21631.57
+INV033,PO065,P8273,Vision-oriented discrete matrices,41,177.74,7287.34
+INV033,PO065,P6428,Cloned optimizing forecast,39,453.12,17671.68
+INV033,PO065,P6715,Pre-emptive maximized framework,85,338.07,28735.95
+INV033,PO065,P9207,Inverse non-volatile array,28,61.1,1710.8
+INV034,PO038,P8601,Versatile responsive approach,41,65.92,2702.72
+INV034,PO038,P6292,Team-oriented leadingedge instruction set,14,472.44,6614.16
+INV035,PO060,P8396,Assimilated mobile instruction set,14,209.79,2937.06
+INV035,PO060,P8443,Multi-layered dedicated website,13,413.93,5381.09
+INV035,PO060,P7878,De-engineered zero administration throughput,62,362.68,22486.16
+INV036,PO043,P7824,Business-focused heuristic ability,67,296.7,19878.9
+INV036,PO043,P7489,Integrated clear-thinking support,43,316.85,13624.55
+INV036,PO043,P9729,De-engineered stable open architecture,77,59.71,4597.67
+INV037,PO006,P3373,Centralized optimal implementation,94,291.08,27361.52
+INV037,PO006,P7555,Streamlined local functionalities,14,116.91,1636.74
+INV038,PO086,P3248,Focused systemic complexity,31,232.95,7221.45
+INV038,PO086,P4375,Ameliorated impactful extranet,26,248.78,6468.28
+INV039,PO019,P9271,Operative impactful knowledgebase,80,304.46,24356.8
+INV039,PO019,P4720,Synergistic attitude-oriented policy,94,495.45,46572.3
+INV039,PO019,P7769,Organic user-facing leverage,57,75.94,4328.58
+INV039,PO019,P7625,Polarized uniform customer loyalty,42,378.17,15883.14
+INV039,PO019,P7160,Centralized multi-tasking function,40,438.66,17546.4
+INV040,PO003,P1304,Virtual bandwidth-monitored strategy,59,288.85,17042.15
+INV040,PO003,P5257,Focused context-sensitive throughput,92,399.14,36720.88
+INV040,PO003,P9791,Synergized real-time extranet,60,212.43,12745.8
+INV040,PO003,P3234,Automated fresh-thinking software,72,335.09,24126.48
+INV041,PO052,P9561,Persistent upward-trending groupware,38,264.4,10047.2
+INV041,PO052,P8880,Optimized empowering process improvement,58,21.42,1242.36
+INV042,PO035,P5664,Sharable holistic paradigm,86,249.1,21422.6
+INV042,PO035,P1736,Networked multi-state extranet,33,219.85,7255.05
+INV042,PO035,P5622,Ameliorated logistical Graphic Interface,66,207.62,13702.92
+INV042,PO035,P6819,Enterprise-wide responsive orchestration,61,253.15,15442.15
+INV043,PO062,P7753,Function-based regional firmware,43,104.49,4493.07
+INV044,PO075,P1633,Diverse intermediate matrix,98,227.95,22339.1
+INV044,PO075,P6661,Reactive contextually-based concept,88,345.59,30411.92
+INV045,PO012,P6524,Mandatory didactic model,46,334.34,15379.64
+INV046,PO080,P7808,Virtual interactive structure,95,84.34,8012.3
+INV047,PO083,P9245,Distributed clear-thinking Local Area Network,76,461.57,35079.32
+INV047,PO083,P1375,Streamlined cohesive process improvement,95,38.61,3667.95
+INV047,PO083,P8827,Reactive bifurcated orchestration,25,29.16,729.0
+INV047,PO083,P2693,Seamless demand-driven access,35,30.4,1064.0
+INV048,PO035,P5664,Sharable holistic paradigm,86,249.1,21422.6
+INV048,PO035,P1736,Networked multi-state extranet,33,219.85,7255.05
+INV048,PO035,P5622,Ameliorated logistical Graphic Interface,66,207.62,13702.92
+INV048,PO035,P6819,Enterprise-wide responsive orchestration,61,253.15,15442.15
+INV049,PO058,P2406,Robust modular definition,73,396.95,28977.35
+INV050,PO077,P7464,Extended asynchronous benchmark,87,411.87,35832.69
+INV050,PO077,P7623,User-friendly modular adapter,20,43.1,862.0
+INV051,PO013,P3122,Centralized zero tolerance synergy,69,243.64,16810.97
+INV051,PO013,P7335,Customizable 5thgeneration protocol,100,391.22,39122.0
+INV051,PO013,P9638,Profit-focused modular focus group,93,232.74,21644.82
+INV051,PO013,P1437,Persevering 24hour product,76,287.97,21885.9
+INV051,PO013,P8011,Right-sized zero administration leverage,4,97.55,390.21
+INV052,PO075,P1633,Diverse intermediate matrix,98,266.3,26097.52
+INV052,PO075,P6661,Reactive contextually-based concept,88,392.18,34511.97
+INV053,PO009,P7389,Enterprise-wide radical leverage,99,296.18,29321.82
+INV053,PO009,P1920,Face-to-face stable service-desk,40,37.59,1503.6
+INV053,PO009,P9990,Multi-channeled 6thgeneration groupware,13,102.43,1331.59
+INV054,PO044,P4336,Multi-channeled value-added data-warehouse,90,262.2,23598.12
+INV054,PO044,P5774,Proactive upward-trending hardware,3,212.21,636.63
+INV054,PO044,P7586,Public-key hybrid data-warehouse,50,50.79,2539.5
+INV054,PO044,P2612,Face-to-face web-enabled encryption,89,231.18,20574.66
+INV055,PO042,P1839,Fundamental system-worthy capacity,100,453.48,45348.0
+INV055,PO042,P2936,Team-oriented actuating groupware,48,324.12,15557.76
+INV055,PO042,P1512,Public-key eco-centric focus group,68,240.1,16326.8
+INV056,PO026,P6852,Business-focused directional structure,73,63.63,4644.99
+INV056,PO026,P9313,Self-enabling scalable access,53,261.88,13879.64
+INV056,PO026,P2884,Organic 24hour implementation,1,35.51,35.51
+INV056,PO026,P9720,Inverse heuristic hierarchy,19,367.74,6987.06
+INV057,PO034,P1293,Devolved fault-tolerant standardization,49,160.87,7882.63
+INV057,PO034,P4956,Future-proofed incremental application,85,87.57,7443.45
+INV057,PO034,P9921,Visionary modular benchmark,8,240.28,1922.24
+INV057,PO034,P9375,Public-key heuristic benchmark,21,277.44,5826.24
+INV057,PO034,P5628,Integrated client-driven task-force,29,131.33,3808.57
+INV058,PO_INVALID,P2580,Sharable bi-directional utilization,66,81.27,5363.82
+INV059,PO028,P9044,Up-sized composite challenge,6,36.34,218.04
+INV059,PO028,P7075,Intuitive bi-directional strategy,53,317.98,16852.94
+INV059,PO028,P5733,Profound 4thgeneration collaboration,15,434.91,6523.65
+INV060,PO_INVALID,P5729,Switchable full-range algorithm,62,222.02,13765.24
+INV061,PO002,P5116,Organized 5thgeneration benchmark,67,186.83,12517.61
+INV061,PO002,P4199,Programmable tangible parallelism,79,176.72,13960.88
+INV061,PO002,P1067,User-friendly high-level encryption,29,495.59,14372.11
+INV062,PO066,P2580,Sharable bi-directional utilization,66,81.27,5363.82
+INV063,PO089,P2822,Robust mission-critical collaboration,64,424.57,27172.48
+INV063,PO089,P7332,Implemented directional access,10,225.58,2255.8
+INV063,PO089,P6764,Ameliorated responsive protocol,69,21.7,1497.3
+INV064,PO_INVALID,P2991,User-centric foreground alliance,3,325.72,977.16
+INV065,PO013,P3122,Centralized zero tolerance synergy,69,227.84,15720.96
+INV065,PO013,P7335,Customizable 5thgeneration protocol,100,391.22,39122.0
+INV065,PO013,P9638,Profit-focused modular focus group,93,232.74,21644.82
+INV065,PO013,P1437,Persevering 24hour product,76,240.16,18252.16
+INV065,PO013,P8011,Right-sized zero administration leverage,4,86.61,346.44
+INV067,PO010,P5104,Implemented multi-tasking ability,71,304.67,21631.57
+INV068,PO038,P2590,Innovative scalable Graphical User Interface,2,12.79,272.08
+INV069,PO006,P3373,Centralized optimal implementation,94,291.08,27361.52
+INV069,PO006,P7555,Streamlined local functionalities,14,116.91,1636.74
+INV070,PO016,P9259,Diverse full-range contingency,68,202.42,13764.56
+INV070,PO016,P9510,Synergized real-time success,71,438.05,31101.55
+INV070,PO016,P1175,Team-oriented 6thgeneration adapter,54,413.12,22308.48
+INV070,PO016,P7942,Multi-channeled value-added paradigm,73,126.42,9228.66
+INV070,PO016,P5270,Object-based human-resource challenge,99,141.06,13964.94
+INV071,PO047,P1830,Focused 24/7 intranet,43,491.5,21134.5
+INV071,PO047,P2922,Enterprise-wide zero-defect focus group,30,237.74,7132.2
+INV071,PO047,P1907,Horizontal 24/7 emulation,36,412.18,14838.48
+INV072,PO011,P1574,Enhanced homogeneous help-desk,43,485.8,20889.4
+INV073,PO089,P2822,Robust mission-critical collaboration,64,424.57,27172.48
+INV073,PO089,P7332,Implemented directional access,10,225.58,2255.8
+INV073,PO089,P6764,Ameliorated responsive protocol,69,21.7,1497.3
+INV074,PO077,P7464,Extended asynchronous benchmark,87,411.87,35832.69
+INV074,PO077,P7623,User-friendly modular adapter,20,43.1,862.0
+INV075,PO072,P5749,Diverse composite access,68,26.74,1818.32
+INV075,PO072,P9570,Multi-layered national projection,53,258.36,13693.08
+INV075,PO072,P1541,Synchronized asynchronous success,26,364.24,9470.24
+INV076,PO_INVALID,P1920,Face-to-face stable service-desk,40,37.59,1503.6
+INV077,PO_INVALID,P2822,Robust mission-critical collaboration,64,424.57,27172.48
+INV078,PO_INVALID,P7753,Function-based regional firmware,41,104.49,4284.09
+INV080,PO_INVALID,P6524,Mandatory didactic model,46,334.34,15379.64
+INV081,PO039,P1608,Inverse holistic utilization,85,172.95,14700.75
+INV081,PO039,P2931,Focused homogeneous complexity,93,113.93,10595.49
+INV082,PO009,P7389,Enterprise-wide radical leverage,99,296.18,29321.82
+INV082,PO009,P1920,Face-to-face stable service-desk,40,37.59,1503.6
+INV082,PO009,P9990,Multi-channeled 6thgeneration groupware,13,102.43,1331.59
+INV083,PO080,P7808,Virtual interactive structure,95,84.34,8012.3
+INV084,PO035,P5664,Sharable holistic paradigm,86,249.1,21422.6
+INV084,PO035,P1736,Networked multi-state extranet,33,219.85,7255.05
+INV084,PO035,P5622,Ameliorated logistical Graphic Interface,66,207.62,13702.92
+INV084,PO035,P6819,Enterprise-wide responsive orchestration,61,253.15,15442.15
+INV085,PO043,P7824,Business-focused heuristic ability,67,296.7,19878.9
+INV085,PO043,P7489,Integrated clear-thinking support,43,316.85,13624.55
+INV085,PO043,P9729,De-engineered stable open architecture,77,59.71,4597.67
+INV086,PO055,P6579,Grass-roots global capacity,54,276.84,14949.36
+INV086,PO055,P5869,Implemented analyzing encoding,39,205.62,8019.18
+INV087,PO077,P7464,Extended asynchronous benchmark,87,411.87,35832.69
+INV087,PO077,P7623,User-friendly modular adapter,20,43.1,862.0
+INV088,PO089,P2822,Robust mission-critical collaboration,64,424.57,27172.48
+INV088,PO089,P7332,Implemented directional access,10,225.58,2255.8
+INV088,PO089,P6764,Ameliorated responsive protocol,69,21.7,1497.3
+INV089,PO015,P7907,Balanced background customer loyalty,7,486.66,3406.62
+INV089,PO015,P2327,Focused tangible portal,14,318.26,4455.64
+INV089,PO015,P3312,Front-line real-time installation,19,418.85,7958.15
+INV089,PO015,P1042,Visionary directional Graphical User Interface,1,22.16,173.25
+INV090,PO026,P6852,Business-focused directional structure,73,63.63,4644.99
+INV090,PO026,P9313,Self-enabling scalable access,53,261.88,13879.64
+INV090,PO026,P2884,Organic 24hour implementation,1,35.51,35.51
+INV090,PO026,P9720,Inverse heuristic hierarchy,19,367.74,6987.06
+INV091,PO087,P8436,Organized impactful toolset,59,338.76,19986.84
+INV091,PO087,P4174,Optional client-driven throughput,51,455.94,23252.94
+INV091,PO087,P4674,Multi-tiered upward-trending solution,40,431.6,17264.0
+INV091,PO087,P8313,Optional impactful emulation,35,452.04,15821.4
+INV092,PO070,P3886,Seamless 6thgeneration portal,19,318.91,6059.28
+INV092,PO070,P6482,Virtual 3rdgeneration contingency,90,502.97,45267.46
+INV092,PO070,P3210,Devolved composite strategy,79,163.59,12923.61
+INV093,PO042,P1839,Fundamental system-worthy capacity,100,453.48,45348.0
+INV093,PO042,P6836,Reduced incremental infrastructure,9,63.6,57.89
+INV094,PO008,P7115,Enhanced maximized moratorium,44,377.32,16602.08
+INV094,PO008,P1557,Diverse interactive open architecture,3,192.04,576.12
+INV094,PO008,P5361,User-friendly zero administration approach,78,356.47,27804.66
+INV094,PO008,P6211,Synchronized context-sensitive flexibility,41,389.3,15961.3
+INV095,PO081,P4195,Sharable multimedia core,28,151.53,4242.84
+INV096,PO053,P9284,Stand-alone value-added process improvement,44,362.84,15964.96
+INV096,PO053,P8695,Right-sized context-sensitive array,70,494.47,34612.9
+INV096,PO053,P4996,Cross-platform real-time methodology,33,285.89,9434.37
+INV096,PO053,P5729,Switchable full-range algorithm,62,222.02,13765.24
+INV096,PO053,P3623,Configurable local system engine,81,276.35,22384.35
+INV097,PO026,P6852,Business-focused directional structure,73,63.63,4644.99
+INV097,PO026,P9313,Self-enabling scalable access,53,261.88,13879.64
+INV097,PO026,P2884,Organic 24hour implementation,1,35.51,35.51
+INV097,PO026,P9720,Inverse heuristic hierarchy,19,367.74,6987.06
+INV098,PO064,P1911,Triple-buffered web-enabled superstructure,37,283.35,10483.95
+INV099,PO078,P5486,Multi-lateral multi-tasking protocol,21,281.76,5916.96
+INV099,PO078,P3718,Synergistic 6thgeneration Graphical User Interface,50,218.94,10947.0
+INV099,PO078,P1976,Extended 3rdgeneration matrices,78,265.76,20729.28
+INV099,PO078,P5351,Realigned bottom-line archive,44,103.59,4557.96
+INV099,PO078,P2530,Operative analyzing projection,14,255.98,3583.72
+INV100,PO031,P5340,Switchable stable knowledge user,100,264.61,26461.0
+INV100,PO031,P7696,Front-line neutral alliance,86,237.39,20415.54
+INV100,PO031,P1742,Persevering contextually-based extranet,7,411.37,2879.59
+INV100,PO031,P2843,Synchronized fault-tolerant policy,27,441.68,11925.36
+INV100,PO031,P4871,Adaptive contextually-based archive,29,184.34,5345.86
